@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 
 ahihi 12312313
 
 abc
 
+=======
+ahihi 12312313
+hello
+>>>>>>> b573a6efbab07d20ca8b28f90ee4a7534accd2cf
